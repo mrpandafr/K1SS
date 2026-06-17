@@ -1,0 +1,12 @@
+*.pyc
+__pycache__/
+.env
+*.pdf
+.hermes/
+
+# Sensible — ne pas push
+modele_financier_v*.py
+modele-financier-*.md
+INVESTISSEURS/
+dashboard-france.html
+*.html
