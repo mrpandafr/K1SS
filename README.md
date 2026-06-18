@@ -91,6 +91,8 @@ This repository contains design files and firmware as they develop. The architec
 
 Not everything is committed yet. Files will appear as they reach a state worth publishing.
 
+For investors and partners, see the [`/investors`](investors/) directory.
+
 ---
 
 ## Repository structure
