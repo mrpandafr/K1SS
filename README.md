@@ -100,6 +100,7 @@ Not everything is committed yet. Files will appear as they reach a state worth p
 /firmware        Source code, build instructions, Mixxx mapping files
 /docs            Assembly guides, module specs, connector spec
 /community       Module proposals, vote results, design discussions
+/investors      Project overview, product info, team — for prospective partners and investors
 ```
 
 ---
